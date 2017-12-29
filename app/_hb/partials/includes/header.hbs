@@ -1,0 +1,31 @@
+{{!--
+    includes/header.hbs
+
+--}}
+
+<header>
+    <span id="dropdown">&#9776;</span>
+    <h2 id="logo"><a href="index.html">GDM SHOWCASE</a></h2>
+  <div id="sidenav">
+    <span id="close">&times;</span>
+    <div class="loginBtns" id="loginRegister">
+      <input type="button" value="registreren" id="register" class="menuBtn hide-onlogin" onclick="location.href='register.html'">
+      <input type="button" value="Inloggen" id="login" class="menuBtn hide-onlogin" onclick="location.href='login.html'">
+      <input type="button" value="uitloggen" id="logoutBtn" class="menuBtn hide-onLogout" onclick="window.app.signOut()">
+    </div>
+    <div class="menu">
+      <ul>
+        <li><a href="#" id="first">Opleidingen</a>
+          <ul id="opleidingen" class="nestedList">
+            <a href="crossmedia.html"><li>Crossmedia-ontwerp</li></a>
+            <a href="grafimedia.html"><li>Grafimediabeleid</li></a>
+            <a href="multimedia.html"><li>Multimediaproductie</li></a>
+          </ul>
+        </li>
+        <li class="hide-onLogout"><a href="favorites.html" id="favorites">Favorieten</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </div>
+  </div>
+</header>

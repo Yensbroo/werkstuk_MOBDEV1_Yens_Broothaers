@@ -1,0 +1,74 @@
+<div class="detailContainer">
+    <div class="fb-grid__col-12">
+        <h1 class="title">{{name}}</h1>
+        <div class="stats">
+            <p>
+                <img src="../assets/images/icons/ic_remove_red_eye_24px.png" class="viewIcon">{{views}}</p>
+            <p>
+                <img src="../assets/images/icons/commenticon.png" class="viewIcon">{{commentCount}}</p>
+        </div>
+    </div>
+    <div class="fb-grid__col-12 description">
+        <p class="clear">{{descr}}</p>
+    </div>
+    <hr>
+    <div class="fb-grid__col-12">
+        {{#each owners}}
+        <a href="#">{{display_name}}</a>
+        {{/each}}
+    </div>
+    <div class="fb-grid__col-12">
+        <p>{{field_of_study}}</p>
+        <p>{{specialization}}</p>
+        <p>{{year}}</p>
+    </div>
+    <div class="fb-grid__col-12 tags">
+        {{#each tags}}
+        <p>{{tag}}</p>
+        {{/each}}
+    </div>
+</div>
+{{#each project_details}}
+<img src="{{src}}" class="detailImg"> 
+{{/each}}
+<div class="detailContainer">
+    <div class="fb-grid__col-12">
+        <div class="shareButtons">
+            <div class="fb-share-button shareBtn" data-href="http://www.gdm.gent/1718-mobdev1/werkstuk/specificaties/functioneel/" data-layout="button"
+                data-size="large" data-mobile-iframe="true">
+                <a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.gdm.gent%2F1718-mobdev1%2Fwerkstuk%2Fspecificaties%2Ffunctioneel%2F&amp;src=sdkpreparse">
+                    <img src="assets/images/icons/facebook.png">
+                </a>
+            </div>
+            <div class="shareBtn">
+                <a class="twitter-share-button" href="https://twitter.com/share" target="_blank" data-size="large" data-text="test" data-url="http://www.arteveldehogeschool.be" data-hashtags="example,demo" data-via="twitterdev" data-related="twitterapi,twitter">
+                    <img src="assets/images/icons/twitter.png">
+                </a>
+            </div>
+            <div class="shareBtn">
+                <a href="https://www.pinterest.com/pin/create/button/" target="_blank" data-pin-do="buttonBookmark" data-pin-media="{{project_details.1.src}}"><img src="assets/images/icons/pinterest.png"></a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="fb-grid__col-12">
+    <form class="detailContainer">
+        <h2>Add your Comment</h2>
+        <div class="fb-grid_col-12">
+            <input type="text" placeholder="Name" id="commentName">
+        </div>
+        <div class="fb-grid__col-12">
+            <textarea placeholder="Comment" id="commentContext" cols="30" rows="3"></textarea>
+            <input type="button" value="Submit" class="submitComment" onclick="window.app.postComment()">
+        </div>
+    </form>
+</div>
+<div class="fb-grid__col-12">
+    <div class="detailContainer comments">
+        {{#each comments}}
+        <h4>{{name}}</h4>
+        <p>{{comment}}</p>
+        <p class="timestamp">{{time}}</p>
+        <hr> {{/each}}
+    </div>
+</div>

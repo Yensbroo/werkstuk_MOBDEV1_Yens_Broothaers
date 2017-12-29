@@ -1,0 +1,36 @@
+{{!-- pages/login.hbs --}}
+
+{{#> layouts/base title="Home | New Media Development | Artevelde University College Ghent" pathToRoot="./" }}
+
+  {{#*inline "content-block"}}
+    <div class="fb-grid__container">
+      <div class="fb-grid__row">
+        <div class="fb-grid__col-12">
+          <h1></h1>
+        </div>
+      </div>
+      <div class="fb-grid__row">
+        <div class="fb-grid__col-12 loginform register">
+          <form>
+            <h4>Registreren</h4>
+            <hr>
+              <p id="red" class="registerError">De velden zijn niet correct ingevuld</p>
+              <input type="text" placeholder="Naam" class="firstname name">
+              <input type="text" placeholder="Achternaam" class="name">
+              <input type="email" placeholder="Email" class="email"><br>
+              <input type="password" placeholder="wachtwoord" class="password">
+              <p id="red" class="passwordError">Uw wachtwoord is te zwak</p>
+              <input type="password" placeholder="Herhaal wachtwoord" class="repeat">
+              <input type="button" value="Registreer" id="registerBtn">
+          </form>
+        </div>
+      </div>
+    </div>
+  {{/inline}}
+
+  {{#*inline "scripts-block"}}
+  <script src="https://www.gstatic.com/firebasejs/4.8.0/firebase.js"></script>
+  <script src="../assets/js/firebaseconfig.js"></script>
+  {{/inline}}
+
+{{/layouts/base}}

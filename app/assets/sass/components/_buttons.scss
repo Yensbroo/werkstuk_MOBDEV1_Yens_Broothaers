@@ -1,0 +1,40 @@
+input[type=submit] {
+  height: 34px;
+  cursor: pointer;
+}
+
+input[value] {
+  color: white;
+  font-size: 12px;
+}
+
+#loginBtn, #registerBtn, .menuBtn, .submitComment, .contactBtn {
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  -webkit-box-shadow: -1px 10px 8px -9px rgba(0,0,0,0.75);
+  -moz-box-shadow: -1px 10px 8px -9px rgba(0,0,0,0.75);
+  box-shadow: -1px 10px 8px -9px rgba(0,0,0,0.75);
+}
+
+.menuBtn {
+  display: block;
+  width: 200px;
+  margin-left: 20px;
+  padding: 5px;
+}
+
+#register, #logoutBtn, #registerBtn, #loginBtn, .submitComment, .contactBtn {
+  background: -webkit-linear-gradient($button-color_green, #5E7E81);
+  background: -o-linear-gradient($button-color_green, #5E7E81);
+  background: -moz-linear-gradient($button-color_green, #5E7E81);
+  background: linear-gradient($button-color_green, #5E7E81);
+}
+
+#login {
+    background: $button-color_blue;
+    background: -webkit-linear-gradient($button-color_blue, #425579);
+    background: -o-linear-gradient($button-color_blue, #425579);
+    background: -moz-linear-gradient($button-color_blue, #425579);
+    background: linear-gradient($button-color_blue, #425579);
+}

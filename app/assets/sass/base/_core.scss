@@ -1,0 +1,17 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: url('../images/background/pattern.png');
+  background-size: 100px;
+  height: 100%;
+}
+
+.fb-grid__container {
+  min-height: 100%;
+}
+
+.containerwhite {
+  background-color: white;
+  height: 100%;
+}

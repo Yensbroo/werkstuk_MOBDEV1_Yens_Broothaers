@@ -1,0 +1,50 @@
+{
+    "project_detail": [
+    {
+        "id": 1,
+        "Title": "Kinderboerderij",
+        "Description": "Als eindwerk voor de tweede jaar ontwikkelden de studenten Graphic Design een huisstijl voor een lokale kinderboerderij.Jules Van Rijsselberge ontwierp een sterk, uitgepuurd logo. Een functioneel uithangbord voor de organisatie. Hij combineert in zijn ontwerp een strakke vormgeving met een spontane, kindvriendelijke illustratiestijl gebaseerd op een digitale wasco-techniek.",
+        "owners": {
+            "id": "",
+            "first_name": "Jules",
+            "last_name": "Van Rijsselberge",
+            "url": "",
+            "display_name": "Jules Van Rijsselberge",
+            "field_of_study": "Crossmedia-ontwerp",
+            "specialization": "Graphic Design",
+            "year": "2de jaar"
+        },
+        "views": 234,
+        "comments": 7,
+        "thumbnail": "", 
+        "project_images":[ 
+            {
+            "type": "image",
+            "src:": "",
+            "width":"",
+            "height":""
+        },
+        {
+            "type": "image",
+            "src:": "",
+            "width":"",
+            "height":""
+        },
+        {
+            "type": "image",
+            "src:": "",
+            "width":"",
+            "height":""
+        },
+        {
+            "type": "image",
+            "src:": "",
+            "width":"",
+            "height":""
+        }
+        
+        ]
+    },
+    
+    ]
+}

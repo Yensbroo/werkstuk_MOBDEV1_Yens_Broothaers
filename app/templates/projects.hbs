@@ -1,0 +1,22 @@
+{{#each this}}
+  <div class="fb-grid__col-xs-12 fb-grid__col-sm-12 fb-grid__col-md__4 fb-grid__col-lg-3 hidden projects">
+   <div class="thumbnail"> 
+    <a href="project_detail.html?id={{@index}}" class="hitCounter">
+        <img src="{{thumbnail_shortcode}}">  
+    </a>
+    </div>
+  <div class="info">
+    <a href="project_detail.html?id={{@index}}" id="projectTitle" class="hitCounter">{{name}}</a><br>
+    <div id="studentName">
+    {{#each owners}}
+        <a href="#" class="student">{{display_name}}</a><br>
+    {{/each}}
+    </div>
+    <div class="statistics">
+    <p><img src="../assets/images/icons/ic_remove_red_eye_24px.png" class="viewIcon">{{views}}</p>
+    <p><img src="../assets/images/icons/commenticon.png" class="viewIcon">{{commentCount}}</p>
+    <!-- <p>{{comments}}</p> -->
+    </div>
+</div>
+ </div>
+{{/each}}

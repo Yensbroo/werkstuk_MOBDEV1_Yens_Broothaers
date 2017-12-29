@@ -1,0 +1,19 @@
+{{!-- pages/index.hbs --}}
+
+{{#> layouts/base title="Home | New Media Development | Artevelde University College Ghent" pathToRoot="./" }}
+
+  {{#*inline "content-block"}}
+    <div class="fb-grid__container article" id="container">
+      <div class="fb-grid__row blogDetail" id="detail">
+      </div>
+    </div>
+  {{/inline}}
+
+  {{#*inline "scripts-block"}}
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.11/handlebars.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/4.8.0/firebase.js"></script>
+  <script src="../assets/js/firebaseconfig.js"></script>
+  <script src="../assets/js/main.js"></script>
+  {{/inline}}
+
+{{/layouts/base}}

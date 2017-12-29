@@ -1,0 +1,35 @@
+{{!-- pages/login.hbs --}}
+
+{{#> layouts/base title="Home | New Media Development | Artevelde University College Ghent" pathToRoot="./" }}
+
+  {{#*inline "content-block"}}
+    <div class="fb-grid__container login">
+      <div class="fb-grid__row">
+        <div class="fb-grid__col-12">
+          <h1></h1>
+        </div>
+      </div>
+      <div class="fb-grid__row">
+        <div class="fb-grid__col-12 loginform">
+          <form>
+            <h4>Login</h4>
+              <hr>
+              <p class="displayError" id="red">Dit emailadres of wachtwoord bestaat niet</p>
+              <input type="email" placeholder="Email" id="emailInput"><br>
+              <input type="password" placeholder="Password" id="passwordInput"><br>
+              <input type="button" value="Login" id="loginBtn">
+              <p id="errormessage"></p>
+              <p>Heb je nog geen account? <a href="register.html">Meld je hier aan</a></p>
+          </form>
+        </div>
+      </div>
+    </div>
+  {{/inline}}
+
+  {{#*inline "scripts-block"}}
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.11/handlebars.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/4.8.0/firebase.js"></script>
+  <script src="../assets/js/firebaseconfig.js"></script>
+  {{/inline}}
+
+{{/layouts/base}}

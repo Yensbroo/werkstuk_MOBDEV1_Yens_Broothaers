@@ -1,0 +1,53 @@
+.blog {
+    background-color: white;
+
+}
+
+.blogContainer {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#blogTitle {
+
+    padding: 40px 0;
+    color: $text-color;
+}
+
+.blogText {
+    margin-bottom: 50px;
+}
+
+.blogText {
+    color: $text-color;
+}
+
+.blogText a {
+    text-decoration: none;
+    color: $text-color;
+}
+
+.blogText a:hover {
+    border-bottom: 1px solid $text-color;
+}
+
+#endPost {
+    width: 100%;
+    float: left;
+    margin-top: 42px;
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+#title {
+    font-family: $headings-font-family;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+#readMore {
+    font-family: $base-font-family;
+    font-weight: bold;
+    text-decoration: none;
+}

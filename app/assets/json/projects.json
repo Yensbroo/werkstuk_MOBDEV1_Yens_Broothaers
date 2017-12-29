@@ -1,0 +1,1611 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "name": "Kinderboerderij",
+            "field_of_study": "Crossmedia-ontwerp",
+            "specialization": "Graphic Design",
+            "year": "2de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Jules",
+                "last_name": "Van Rijsselberge",
+                "url": "",
+                "display_name": "Jules Van Rijsselberge"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/kinderboerderij.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/kinderboerderij/1.logo.jpg"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/kinderboerderij/2.uitleglogo.jpg"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/kinderboerderij/3.illustraties.jpg"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/kinderboerderij/5.schetsposter.jpg"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Diabeasy",
+            "field_of_study": "Crossmedia-ontwerp",
+            "specialization": "Graphic Design",
+            "year": "2de jaar",
+            "owners": {
+                "1": {
+                    "id": "",
+                    "first_name": "Stijn",
+                    "last_name": "Gevens",
+                    "url": "",
+                    "display_name": "Stijn Gevens"
+                },
+                "2": {
+                    "id": "",
+                    "first_name": "Julie",
+                    "last_name": "De Clerq",
+                    "url": "",
+                    "display_name": "Julie De Clerq"
+                }    
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/diabeasy.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/diabeasy/ontwerp-website.png"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/diabeasy/wireflow-smartphone.jpg"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/kinderboerderij/diabeasy/wireflow-smartwatch.png"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Didactische plaat",
+            "field_of_study": "Crossmedia-ontwerp",
+            "specialization": "Graphic Design",
+            "year": "2de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Niels",
+                "last_name": "Dewelde",
+                "url": "",
+                "display_name": "Niels Dewelde"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/didactische_plaat.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/didactische_plaat/1.visual.png"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/didactische_plaat/2.poster.png"
+                }
+            ] 
+        },
+        {
+            "id": 4,
+            "name": "Melk Campagne",
+            "field_of_study": "Crossmedia-ontwerp",
+            "specialization": "Photo Design",
+            "year": "3de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Shauny",
+                "last_name": "Eloot",
+                "url": "",
+                "display_name": "Shauny Eloot"
+
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/amelli.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/melk_campagne/2_halfvollogo.png"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/melk_campagne/3_halfvolverpakking.png"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/melk_campagne/4_applogo.png"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/melk_campagne/5_appmockup.png"
+                }
+            ] 
+        },
+        {
+            "id": 5,
+            "name": "Fitchallenge",
+            "field_of_study": "Crossmedia-ontwerp",
+            "specialization": "Photo design",
+            "year": "2de jaar",
+            "owners": {
+                "1": {
+                    "id": "",
+                    "first_name": "Manon",
+                    "last_name": "Adriaens",
+                    "url": "",
+                    "display_name": "Manon Adriaens"
+                },
+                "2": {
+                    "id": "",
+                    "first_name": "Alyssa",
+                    "last_name": "Mae Enzon",
+                    "url": "",
+                    "display_name": "Alyssa Mae Enzon"
+                }
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/fitchallenge.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/fitchallenge/screen-designs-01.png"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/fitchallenge/screen-designs-02.png"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/fitchallenge/wireflow-smartphone.png"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Blitter",
+            "field_of_study": "Multimediaproductie",
+            "specialization": "New Media Development",
+            "year": "3de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Pieter-Jan",
+                "last_name": "Sas",
+                "url": "",
+                "display_name": "Pieter-Jan Sas"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/blitter.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/blitter/2_detail_styletiles.png"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/blitter/3_detail_screens.png"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/blitter/4_detail_mockup.png"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/blitter/5_detail_mockup.png"
+                },
+                {
+                    "type": "image",
+                    "src":"assets/images/project_details/blitter/6_detail_poster.png"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Dagboeknotities",
+            "field_of_study": "Crossmedia-ontwerp",
+            "specialization": "Photo Design",
+            "year": "2de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Gert-Jan",
+                "last_name": "De Baets",
+                "url": "",
+                "display_name": "Gert-Jan De Baets"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/dagboeknotities.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/dagboeknotities/1.png"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/dagboeknotities/2.png"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/dagboeknotities/3.png"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/dagboeknotities/4.png"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/dagboeknotities/5.png"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/dagboeknotities/6.png"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/dagboeknotities/7.png"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/dagboeknotities/8.png"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/dagboeknotities/9.png"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/dagboeknotities/10.png"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/dagboeknotities/11.png"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/dagboeknotities/12.png"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/dagboeknotities/13.png"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/dagboeknotities/14.png"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/dagboeknotities/15.png"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/dagboeknotities/16.png"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/dagboeknotities/17.png"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/dagboeknotities/18.png"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/dagboeknotities/19.png"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/dagboeknotities/20.png"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "A salad is not a meal",
+            "field_of_study": "Crossmedia-ontwerp",
+            "specialization": "Graphic Design",
+            "year": "3de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Elena",
+                "last_name": "Vanhauwaert",
+                "url": "",
+                "display_name": "Elena Vanhauwaert"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/salad.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/a_salad_is_not_a_meal/1.salad.jpg"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Les Trois Quarts",
+            "field_of_study": "Crossmedia-ontwerp",
+            "specialization": "Photo Design",
+            "year": "3de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Quinten",
+                "last_name": "Braem",
+                "url": "",
+                "display_name": "Quinten Braem"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/les_trois_quarts.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/les_trois_quarts/1_logo.jpg"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/les_trois_quarts/2_packshot_wijn.jpg"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/les_trois_quarts/3_packshot_wijn_2.jpg"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Memorial Van Damme poster",
+            "field_of_study": "Crossmedia-ontwerp",
+            "specialization": "Graphic Design",
+            "year": "2de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Linde",
+                "last_name": "Raats",
+                "url": "",
+                "display_name": "Linde Raats"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/memorial_linde.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/memorial_linde/1.memorial.png"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Google Online Marketing Challenge",
+            "field_of_study": "Grafimediabeleid",
+            "specialization": "Crossmedia",
+            "year": "3de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "",
+                "last_name": "",
+                "url": "",
+                "display_name": "GMB Team"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/google_online.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/google_online_marketing/online-marketing-challenge.jpg"
+                }
+            ] 
+        },
+        {
+            "id": 12,
+            "name": "El Dorado",
+            "field_of_study": "Crossmedia-ontwerp",
+            "specialization": "Graphic Design",
+            "year": "2de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Amandine",
+                "last_name": "Faingnaert",
+                "url": "",
+                "display_name": "Amandine Faingnaert"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/el_dorado.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/el_dorado/1.jpg"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/el_dorado/2.jpg"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/el_dorado/3.jpg"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/el_dorado/4.jpg"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/el_dorado/5.jpg"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/el_dorado/6.jpg"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/el_dorado/7.jpg"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/el_dorado/8.jpg"
+                }
+            ] 
+        },
+        {
+            "id": 13,
+            "name": "Sociale bescherming",
+            "field_of_study": "Crossmedia-ontwerp",
+            "specialization": "Graphic Design",
+            "year": "2de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Yoeri",
+                "last_name": "De Sloovere",
+                "url": "",
+                "display_name": "Youri De Sloovere"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/sociale_bescherming.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/sociale_bescherming/2.kaart.jpg"
+                }
+            ] 
+        },
+        {
+            "id": 14,
+            "name": "The sweet tooth",
+            "field_of_study": "Crossmedia-ontwerp",
+            "specialization": "Graphic Design",
+            "year": "2de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Anthony",
+                "last_name": "Nys",
+                "url": "",
+                "display_name": "Anthony Nys"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/sweet_tooth.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/sweet_tooth/1.jpg"
+                },
+                {
+                    "type": "image",
+                    "src":"assets/images/project_details/sweet_tooth/2.jpg"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/sweet_tooth/3.jpg"
+                },
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/sweet_tooth/sweetvan.jpg"
+                }
+            ] 
+        },
+        {
+            "id": 15,
+            "name": "Huisstijl Bourgoyen",
+            "field_of_study": "Crossmedia-ontwerp",
+            "specialization": "Graphic Design",
+            "year": "2de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Phaedra",
+                "last_name": "De Wambersie",
+                "url": "",
+                "display_name": "Phaedra De Wambersie"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/bourgoyen.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/bourgoyen/1.logo.jpg"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/bourgoyen/2.logonegatief.jpg"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/bourgoyen/3.logonegatief.jpg"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/bourgoyen/4.illustraties.jpg"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/bourgoyen/5.illustraties.jpg"
+                }
+            ] 
+        },
+        {
+            "id": 16,
+            "name": "Kon Samui",
+            "field_of_study": "Crossmedia-ontwerp",
+            "specialization": "Graphic Design",
+            "year": "3de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Elena",
+                "last_name": "Vanhauwaert",
+                "url": "",
+                "display_name": "Elena Vanhauwaert"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/kon_samui.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/kon_samui/1.visual.jpg"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/kon_samui/2.poster.jpg"
+                }
+            ] 
+        },
+        {
+            "id": 17,
+            "name": "Kookboek",
+            "field_of_study": "Crossmedia-ontwerp",
+            "specialization": "Graphic Design",
+            "year": "2de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Elena",
+                "last_name": "Vanhauwaert",
+                "url": "",
+                "display_name": "Elena Vanhauwaert"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/kookboek.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/kookboek/1.cover.png"
+                }
+            ] 
+        },
+        {
+            "id": 18,
+            "name": "Memorial Van Damme 40ste editie",
+            "field_of_study": "Crossmedia-ontwerp",
+            "specialization": "Graphic Design",
+            "year": "2de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Laurens",
+                "last_name": "Segaert",
+                "url": "",
+                "display_name": "Laurens Segaert"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/memorial_laurens.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/memorial_laurens/poster-memorial-ls.png"
+                }
+            ] 
+        },
+        {
+            "id": 18,
+            "name": "Mighty Spicy",
+            "field_of_study": "Crossmedia-ontwerp",
+            "specialization": "Graphic Design",
+            "year": "2de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Liesbeth",
+                "last_name": "Tempelare",
+                "url": "",
+                "display_name": "Elena Tempelare"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/mighty_spicy.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/mighty_spicy/1_detail_logo.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/mighty_spicy/2_detail_logovariaties.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/mighty_spicy/3_detail_foodtruck.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/mighty_spicy/4_detail_foodtruck.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/mighty_spicy/5_detail_advertentie.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/mighty_spicy/6_detail_plattegrond.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/mighty_spicy/7_detail_onepage.png"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Space Dweller",
+            "field_of_study": "Crossmedia-ontwerp",
+            "specialization": "Graphic Design",
+            "year": "2de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Jonas",
+                "last_name": "Dermul",
+                "url": "",
+                "display_name": "Jonas Dermul"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/space_dweller.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/space_dweller/balk-buswrap.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/space_dweller/balk-logo.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/space_dweller/balk-logo2.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/space_dweller/balk-poster.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/space_dweller/balk-visual-buswrap.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/space_dweller/balk-visual-poster.png"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "The amazing story of magic",
+            "field_of_study": "Crossmedia-ontwerp",
+            "specialization": "Graphic Design",
+            "year": "2de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Lynn",
+                "last_name": "Janssens",
+                "url": "",
+                "display_name": "Lynn Janssens"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/story_of_magic.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/amazing_story_of_magic/1.poster.jpg"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Marsman",
+            "field_of_study": "Crossmedia-ontwerp",
+            "specialization": "Graphic Design",
+            "year": "2de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Kato",
+                "last_name": "Janssens",
+                "url": "",
+                "display_name": "Kato Janssens"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/marsman.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/marsman/1.logo.jpg"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/marsman/2.logo.jpg"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/marsman/3.mascotte.jpg"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/marsman/4.poster.jpg"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/marsman/5.poster.jpg"
+                }
+            ] 
+        },
+        {
+            "id": 21,
+            "name": "Infografiek",
+            "field_of_study": "Crossmedia-ontwerp",
+            "specialization": "Graphic Design",
+            "year": "2de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Elena",
+                "last_name": "Vanhauwaert",
+                "url": "",
+                "display_name": "Elena Vanhauwaert"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/grafische_vormgever.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/infografiek/1.infografiek.png"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Puur",
+            "field_of_study": "Crossmedia-ontwerp",
+            "specialization": "Photo Design",
+            "year": "2de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Julie",
+                "last_name": "Van Hoecke",
+                "url": "",
+                "display_name": "Julie Van Hoecke"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/puur.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/puur/detail1_VanHoeckeJulie.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/puur/detail2_VanHoeckeJulie.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/puur/detail3_VanHoeckeJulie.png"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Brussel XL",
+            "field_of_study": "Multimediaproductie",
+            "specialization": "Audiovisual Design",
+            "year": "3de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Dean",
+                "last_name": "De Coster",
+                "url": "",
+                "display_name": "De Coster"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/brussel_xl.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/brussel_xl/detail1_DeCosterDean.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/brussel_xl/detail2_DeCosterDean.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/brussel_xl/detail3_DeCosterDean.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/brussel_xl/detail4_DeCosterDean.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/brussel_xl/detail5_DeCosterDean.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/brussel_xl/detail6_DeCosterDean.png"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Cesar",
+            "field_of_study": "Multimediaproductie",
+            "specialization": "Audiovisual Design",
+            "year": "2de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Victor",
+                "last_name": "Gouhie",
+                "url": "",
+                "display_name": "Victor Gouhie"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/cesar.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/cesar/1_detail_theelements.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/cesar/2_detail_cesar.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/cesar/3_detail_cesar.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/cesar/5_detail_cesar.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/cesar/5_detail_cesar.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/cesar/cesar.gif"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "IPURO christmas",
+            "field_of_study": "Multimediaproductie",
+            "specialization": "Audiovisual Design",
+            "year": "3de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Kevin",
+                "last_name": "De Vuyst",
+                "url": "",
+                "display_name": "Kevin De Vuyst"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/ipuro.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/ipuro/1_detail_echteflesjes.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/ipuro/2_detail_proefopstelling.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/ipuro/3_detail_opstellingzonderachtergr.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/ipuro/3_detail_finale_opstelling.gif"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Kleen",
+            "field_of_study": "Multimediaproductie",
+            "specialization": "New Media Development",
+            "year": "3de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Nicolas",
+                "last_name": "Van Hecke",
+                "url": "",
+                "display_name": "Nicolas Van Hecke"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/kleen.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/kleen/detail1_VanHeckeNicolas.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/kleen/detail2_VanHeckeNicolas.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/kleen/detail3_VanHeckeNicolas.png"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Schoolhoeve",
+            "field_of_study": "Crossmedia-ontwerp",
+            "specialization": "Graphic Design",
+            "year": "2de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Rietje",
+                "last_name": "Van Hoof",
+                "url": "",
+                "display_name": "Rietje Van Hoof"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/schoolhoeve.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/schoolhoeve/1.logo.jpg"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/schoolhoeve/2.visual.jpg"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/schoolhoeve/3.poster.jpg"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/schoolhoeve/4.informatieborden.jpg"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/schoolhoeve/5.visual.jpg"
+                }
+            ] 
+        },
+        {
+            "id": 28,
+            "name": "Spot App",
+            "field_of_study": "Multimediaproductie",
+            "specialization": "New Media Development",
+            "year": "3de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Maxim",
+                "last_name": "Van Hove",
+                "url": "",
+                "display_name": "Maxim Van Hove"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/spot.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/spot/detail1_VanHoveMaxim.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/spot/detail2_VanHoveMaxim.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/spot/detail3_VanHoveMaxim.png"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Vormgever in cijfers",
+            "field_of_study": "Crossmedia-ontwerp",
+            "specialization": "Graphic Design",
+            "year": "3de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Simon",
+                "last_name": "Van Damme",
+                "url": "",
+                "display_name": "Simon Van Damme"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/vormgever_in_cijfers.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/vormgever_in_cijfers/1.jpg"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/vormgever_in_cijfers/2.jpg"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/vormgever_in_cijfers/3.jpg"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Trash",
+            "field_of_study": "Multimediaproductie",
+            "specialization": "New Media Development",
+            "year": "3de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Bert",
+                "last_name": "Goossens",
+                "url": "",
+                "display_name": "Bert Goossens"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/trash.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/trash/0_detail_screendesign.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/trash/1_moodboard.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/trash/2_detail_ideaboard.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/trash/3_detail_wireframe.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/trash/4_detail_screendesign.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/trash/5_detail_screendesign.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/trash/6_detail_screendesign.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/trash/7_detail_screendesign.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/trash/8_detail_screendesign.png"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Festivote",
+            "field_of_study": "Multimediaproductie",
+            "specialization": "New Media Development",
+            "year": "2de jaar",
+            "owners": {
+                "1": {
+                    "id": "",
+                    "first_name": "Thomas",
+                    "last_name": "Coppein",
+                    "url": "",
+                    "display_name": "Thomas Coppein"
+                },
+                "2": {
+                    "id": "",
+                    "first_name": "Julien",
+                    "last_name": "Lemoine",
+                    "url": "",
+                    "display_name": "Julien Lemoine"
+                }    
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/festivote.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/festivote/app-visual-designs.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/festivote/backoffice-wireframe_01.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/festivote/code.png"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Olympus",
+            "field_of_study": "Multimediaproductie",
+            "specialization": "New Media Development",
+            "year": "2de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Jens",
+                "last_name": "De Wulf",
+                "url": "",
+                "display_name": "Jens De Wulf"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/olympus.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/olympus/backoffice-01.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/olympus/backoffice-02.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/olympus/code.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/olympus/database.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/olympus/frontoffice.png"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Creathing",
+            "field_of_study": "Multimediaproductie",
+            "specialization": "New Media Development",
+            "year": "2de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Tine",
+                "last_name": "Vancoillie",
+                "url": "",
+                "display_name": "Tine Vancoillie"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/creathing.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/creathing/backoffice-01.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/creathing/backoffice-02.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/creathing/backoffice-03.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/creathing/backoffice-04.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/creathing/code.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/creathing/database.png"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "(B)oef",
+            "field_of_study": "Multimediaproductie",
+            "specialization": "Audiovisual Design",
+            "year": "3de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Arthuur",
+                "last_name": "Bruwier",
+                "url": "",
+                "display_name": "Arthuur Bruwier"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/boef.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/boef/detail1_BruwierArtuur.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/boef/detail2_BruwierArtuur.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/boef/detail3_BruwierArtuur.png"
+                }
+            ] 
+        },
+        {
+            "id": 35,
+            "name": "Kringloop",
+            "field_of_study": "Crossmedia-ontwerp",
+            "specialization": "Graphic Design",
+            "year": "2de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Linde",
+                "last_name": "Raats",
+                "url": "",
+                "display_name": "Linde Raats"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/kringloop.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/kringloop/1.advertentie.jpg"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Heathen",
+            "field_of_study": "Multimediaproductie",
+            "specialization": "Audiovisual Design",
+            "year": "3de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Lander",
+                "last_name": "Denys",
+                "url": "",
+                "display_name": "Lander Denys"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/heathen.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/heathen/1.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/heathen/2.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/heathen/3.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/heathen/4.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/heathen/5.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/heathen/6.png"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Themapark campagne",
+            "field_of_study": "Crossmedia-ontwerp",
+            "specialization": "Graphic Design",
+            "year": "2de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Caroline",
+                "last_name": "Pham",
+                "url": "",
+                "display_name": "Caroline Pham"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/oceano.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/themapark_campagne/1_detail_logo.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/themapark_campagne/2_detail_logovoorstudie.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/themapark_campagne/3_detail_logovoorstudie.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/themapark_campagne/4_detail_kleurgebruik.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/themapark_campagne/5_detail_mascotte.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/themapark_campagne/6_detail_poster.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/themapark_campagne/7_detail_buswrap.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/themapark_campagne/8_detail_onepage.png"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Hommage Morandi",
+            "field_of_study": "Crossmedia-ontwerp",
+            "specialization": "Photo Design",
+            "year": "2de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Hommage",
+                "last_name": "Morandi",
+                "url": "",
+                "display_name": "Hommage Morandi"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/morandi.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/morandi/detail1_BaesChloe_Morandi.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/morandi/detail2_VermeulenAmber_Morandi.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/morandi/detail3_CaretteLisa_Morandi.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/morandi/detail4_ElootShauny_Morandi.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/morandi/detail5_ElootShauny_Morandi.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/morandi/detail6_ElootShauny_Morandi.png"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "StreetArtMap",
+            "field_of_study": "Multimediaproductie",
+            "specialization": "New Media Development",
+            "year": "3de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Bram",
+                "last_name": "De Backer",
+                "url": "",
+                "display_name": "Bram De Backer"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/streetartmap.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/streetartmap/app-01.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/streetartmap/app-02.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/streetartmap/app-03.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/streetartmap/app-04.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/streetartmap/code.png"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Pasta Pesto",
+            "field_of_study": "Crossmedia-ontwerp",
+            "specialization": "Photo Design",
+            "year": "2de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Lisa",
+                "last_name": "Walcarius",
+                "url": "",
+                "display_name": "Lisa Walcarius"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/pasta_pesto.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/pasta_pesto/detail1_WalcarusLisa.png"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/pasta_pesto/detail2_WalcarusLisa.png"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Winter",
+            "field_of_study": "Crossmedia-ontwerp",
+            "specialization": "Photo Design",
+            "year": "2de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Freya",
+                "last_name": "De Corte",
+                "url": "",
+                "display_name": "Freya De Corte"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/winter.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/winter/detail1_DeCorteFreya.png"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Memorial Van Damme 40ste editie",
+            "field_of_study": "Crossmedia-ontwerp",
+            "specialization": "Graphic Design",
+            "year": "2de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Wannes",
+                "last_name": "Vansteenhuyse",
+                "url": "",
+                "display_name": "Wannes Vansteenhuyse"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/memorial_wannes.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/memorial_wannes/2.poster.jpg"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Orbit",
+            "field_of_study": "Crossmedia-ontwerp",
+            "specialization": "Graphic Design",
+            "year": "2de jaar",
+            "owners": {
+                "id": "",
+                "first_name": "Siham",
+                "last_name": "Asrikh",
+                "url": "",
+                "display_name": "Siham Asrikh"
+            },
+            "views": 234,
+            "comments": 7,
+            "thumbnail_shortcode": "assets/images/thumbnails/orbit.png",
+            "project_details": [
+                {
+                    "type": "image",
+                    "src": "assets/images/project_details/orbit/1.logo.jpg"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/orbit/2.poster.jpg"
+                },
+                {
+                    "type":"image",
+                    "src":"assets/images/project_details/orbit/2.advertentie.jpg"
+                }
+            ]
+        }
+    ]
+}

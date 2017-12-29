@@ -1,0 +1,133 @@
+.projectDetailContainer {
+    background-color: white;
+}
+
+.detailContainer {
+    width: 80%;
+    margin: 50px auto;
+}
+
+.detailContainer hr {
+    margin: 40px 6px;
+    width: 300px;
+    color: $primary-color;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid $primary-color;
+    padding: 0; 
+}
+
+.detailContainer h1, .detailContainer p {
+    color: $text-color;
+}
+
+.stats p{
+    float: left;
+    padding-right: 10px;
+}
+
+
+.detailContainer h1{
+    font-weight: bold;
+}
+
+.likeBtns {
+    float: right;
+    position: relative;
+    bottom: 56px;
+}
+
+.likeBtns input {
+    padding: 0 5px;
+    background-color: none;
+    border: 3px solid $text-color;
+    border-radius: 4px;
+    width: 70px;
+    cursor: pointer;
+}
+
+.likeBtns input[value] {
+    color: $text-color;
+}
+
+.clear {
+    clear: both;
+}
+
+
+
+.description {
+    margin-bottom: 20px;
+}
+
+.detailImg {
+    width: 80%;
+    margin: 20px auto;
+}
+
+.shareButtons {
+    display: flex;
+    justify-content: center;
+}
+
+.shareBtn {
+    float: left;
+    margin-right: 20px;
+}
+
+.shareBtn img {
+    width: 30px;
+}
+
+.detailContainer a {
+    text-decoration: none;
+    color: $text-color;
+    font-family: $base-font-family;
+    font-weight: bold;
+}
+
+
+.tags p{
+    float: left;
+    color: white;
+    padding: 0 10px;
+    background-color: $text-color;
+    border-radius: 4px;
+    margin-right: 4px
+}
+
+.detailContainer input, .detailContainer textarea {
+    border: 1px solid $text-color;
+    border-radius: 4px;
+}
+#commentName {
+    margin-bottom: 20px;
+    margin-left: 7px;
+    padding-left: 5px;
+}
+
+#commentContext {
+    width: 100%;
+    height: 100px;
+    resize: none;
+    padding: 5px;
+}
+
+.submitComment {
+    margin-top: 20px;   
+}
+
+.comments {
+    color: $text-color;
+}
+
+.comments p {
+    margin-left: 30px;
+}
+
+.comments hr {
+    width: 100%;
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}

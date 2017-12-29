@@ -1,0 +1,87 @@
+header {
+  background-color: $primary-color;
+  width: 100%;
+  height: 57px;
+  //position: fixed;
+  //z-index: 2;
+}
+
+header span {
+  color: white;
+  position: relative;
+  top: 7px;
+  font-size: 28px;
+  margin-left: 16px;
+  cursor: pointer;
+}
+
+#logo {
+  width: 259px;
+  color: white;
+  position: relative;
+  bottom: 62px;
+  top: -37px;
+  margin: 0 auto;
+}
+
+#logo a {
+  text-decoration: none;
+  color: white;
+}
+
+#sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: $primary-color;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+
+#sidenav #close {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 30px;
+  margin-left: 50px;
+}
+
+.menu {
+  margin-top: 20px;
+}
+
+#sidenav ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+#sidenav a {
+  text-decoration: none;
+  color: white;
+  font-size: 14px;
+  display: block;
+  padding: 20px;
+  border-bottom: 1px solid $text-color;
+}
+
+#sidenav a:hover {
+  background-color: $text-color;
+}
+
+#first {
+  border-top: 1px solid $text-color;
+}
+
+.nestedList {
+  display: none;
+  background-color: #1C2B31;
+}
+
+.show {
+  display: block;
+}

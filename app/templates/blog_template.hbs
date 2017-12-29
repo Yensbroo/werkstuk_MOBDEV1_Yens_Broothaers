@@ -1,0 +1,14 @@
+<h1 id="blogTitle">BLOG</h1>
+{{#each this}}
+<div class="blogText">
+    <div class="fb-grid__col-12">
+        <a href="blog_detail.html?id={{@index}}" id="title">{{title}}</a>
+    </div>
+    <div class="fb-grid__col-12">
+        <p>{{short}}</p>
+        <a href="blog_detail.html?id={{@index}}" id="readMore">lees meer</a>
+    </div>
+    <hr id="endPost">
+</div>
+    
+{{/each}}

@@ -1,0 +1,20 @@
+{{!--
+    includes/details_partial.hbs
+--}}
+
+{{#each this}}
+<a href="project_detail.html?id={{@index}}">
+  <div class="fb-grid__col-xs-12 fb-grid__col-sm-3 fb-grid__col-md__4 fb-grid__col-lg-3 hidden projects">
+    <img src="{{thumbnail_shortcode}}" class="thumbnail">
+    <p>{{name}}</p>
+</a>
+{{ h-owners owners }}
+    {{#each owners}}
+      <a href="#" class="student">{{display_name}}</a><br>
+    {{/each}}
+    <div class="statistics">
+    <p>{{views}}</p>
+    <p>{{comments}}</p>
+    </div>
+  </div>
+{{/each}}
